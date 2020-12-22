@@ -14,8 +14,9 @@ My local machine setup and config
 `brew install node`\
 `brew install imagemagick@6 && brew link imagemagick@6 --force`\
 `brew install zsh`\
-`brew cask install iterm2`
-`brew install vim`
+`brew cask install iterm2`\
+`brew install vim`\
+`brew cask install ngrok`
 
 ## Git and github
 Instead of installing git manually using git command line, download git desktop from 
